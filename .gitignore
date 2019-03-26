@@ -62,7 +62,7 @@ __recovery/
 *.~*
 # Delphi DataBase
 *.db
-# Delphi DataBase
+# Delphi Inifile
 *.ini
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
