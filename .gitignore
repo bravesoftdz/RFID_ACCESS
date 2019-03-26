@@ -60,9 +60,15 @@
 __history/
 __recovery/
 *.~*
+<<<<<<< HEAD
 # Delphi DataBase
 *.db
 *.ini
 
+=======
+# Delphi database
+*.db
+*.ini
+>>>>>>> 76f347d81adaba59169097e7b57ee4f51b3bd930
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
 *.stat
