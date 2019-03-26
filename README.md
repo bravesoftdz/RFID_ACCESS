@@ -1,12 +1,12 @@
 # RFID_ACCESS
-read rfid via ardouino (serial communication)
+Read RFID via ardouino (serial communication)
 ![](RFID_ACCESS.png) 
 
 
 ## Built With
 
 * [ComPort Library](https://sourceforge.net/projects/comport/files/comport/) - ComPort Library ( by Dejan Crnila )
-* [ComPort Library](https://sourceforge.net/projects/comport/files/comport/) - ComPort Library ( by Dejan Crnila )
+* [RFID Library](https://github.com/miguelbalboa/rfid) - Arduino RFID Library for MFRC522
 
 # Features  
 
